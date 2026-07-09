@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+
+# Java
+target/
+*.class
+
+# Environment Variables
+.env
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
